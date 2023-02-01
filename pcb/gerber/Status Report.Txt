@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_Project_uSimar_V0.PrjPcb]
+   Generated File[uSimar_PCB_V0.TXT]
+   Generated File[uSimar_PCB_V0.LDP]
+   Generated File[uSimar_PCB_V0.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:21:34 On 01/02/2023
