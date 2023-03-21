@@ -155,58 +155,82 @@ DocumentPath=Project Outputs for PCB_Project_uSimar_V0\Design Rule Check - uSima
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.DRR
+DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.EXTREP
+DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.GBL
+DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.GBO
+DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.GD1
+DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.GKO
+DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.GM
+DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.GPB
+DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.GPT
+DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.GTL
+DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.GTO
+DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.GM
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.LDP
+DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.REP
+DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument15]
+DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.REP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
 DocumentPath=Project Outputs for PCB_Project_uSimar_V0\uSimar_PCB_V0.TXT
 DItemRevisionGUID=
 
@@ -489,7 +513,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Lexmark MS610dn
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
@@ -532,13 +556,77 @@ OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=4.65|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=A4|PaperIndex=9
+Configuration7_Name1=ForceUpdateSettings
+Configuration7_Item1=False
+Configuration7_Name2=OutputConfigurationParameter1
+Configuration7_Item2=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration7_Name3=OutputConfigurationParameter2
+Configuration7_Item3=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Drill Drawing For (Top Layer - Bottom Layer)|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration7_Name4=OutputConfigurationParameter3
+Configuration7_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=DrillDrawing|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration7_Name5=OutputConfigurationParameter4
+Configuration7_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration7_Name6=OutputConfigurationParameter5
+Configuration7_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration7_Name7=OutputConfigurationParameter6
+Configuration7_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical4|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration7_Name8=OutputConfigurationParameter7
+Configuration7_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical5|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration7_Name9=OutputConfigurationParameter8
+Configuration7_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration7_Name10=OutputConfigurationParameter9
+Configuration7_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration7_Name11=OutputConfigurationParameter10
+Configuration7_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical16|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration7_Name12=OutputConfigurationParameter11
+Configuration7_Item12=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=1|Mirror=False|Name=Drill Guide For (Top Layer - Bottom Layer)|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration7_Name13=OutputConfigurationParameter12
+Configuration7_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=DrillGuide|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration7_Name14=OutputConfigurationParameter13
+Configuration7_Item14=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration7_Name15=OutputConfigurationParameter14
+Configuration7_Item15=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration7_Name16=OutputConfigurationParameter15
+Configuration7_Item16=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical4|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration7_Name17=OutputConfigurationParameter16
+Configuration7_Item17=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical5|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration7_Name18=OutputConfigurationParameter17
+Configuration7_Item18=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration7_Name19=OutputConfigurationParameter18
+Configuration7_Item19=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration7_Name20=OutputConfigurationParameter19
+Configuration7_Item20=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical16|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
 OutputType8=CompositeDrill
 OutputName8=Composite Drill Drawing
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=4.65|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration8_Name1=ForceUpdateSettings
+Configuration8_Item1=False
+Configuration8_Name2=OutputConfigurationParameter1
+Configuration8_Item2=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration8_Name3=OutputConfigurationParameter2
+Configuration8_Item3=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Combination Drill Guide For (Top Layer - Bottom Layer)|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration8_Name4=OutputConfigurationParameter3
+Configuration8_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=DrillDrawing|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration8_Name5=OutputConfigurationParameter4
+Configuration8_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=DrillGuide|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration8_Name6=OutputConfigurationParameter5
+Configuration8_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration8_Name7=OutputConfigurationParameter6
+Configuration8_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration8_Name8=OutputConfigurationParameter7
+Configuration8_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical4|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration8_Name9=OutputConfigurationParameter8
+Configuration8_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical5|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration8_Name10=OutputConfigurationParameter9
+Configuration8_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration8_Name11=OutputConfigurationParameter10
+Configuration8_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration8_Name12=OutputConfigurationParameter11
+Configuration8_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical16|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
 OutputType9=Board Stack Report
 OutputName9=Report Board Stack
 OutputDocumentPath9=
@@ -564,7 +652,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=GTQAUUDY|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842751~1,16973837~1|PlotBoardProfile=True|PlotBoardProfileFileName=uSimar_PCB_V0.GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName=uSimar_PCB_V0.GD1|UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=uSimar_PCB_V0.GG1|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UserLayerName.Caption0=uSimar_PCB_V0.GBO|UserLayerName.Caption1=uSimar_PCB_V0.GTP|UserLayerName.Caption10=uSimar_PCB_V0.GBL|UserLayerName.Caption11=uSimar_PCB_V0.GM15|UserLayerName.Caption12=uSimar_PCB_V0.GM20|UserLayerName.Caption13=uSimar_PCB_V0.GTL|UserLayerName.Caption14=uSimar_PCB_V0.GBP|UserLayerName.Caption2=uSimar_PCB_V0.GTO|UserLayerName.Caption3=uSimar_PCB_V0.GTS|UserLayerName.Caption4=uSimar_PCB_V0.GM13|UserLayerName.Caption5=uSimar_PCB_V0.GPT|UserLayerName.Caption6=uSimar_PCB_V0.GPB|UserLayerName.Caption7=uSimar_PCB_V0.GKO|UserLayerName.Caption8=uSimar_PCB_V0.GBS|UserLayerName.Caption9=uSimar_PCB_V0.GM1|UserLayerName.Count=15|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16842751|UserLayerName.Layer11=16908303|UserLayerName.Layer12=16908308|UserLayerName.Layer13=16777217|UserLayerName.Layer14=16973833|UserLayerName.Layer2=16973830|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16973848|UserLayerName.Layer6=16973849|UserLayerName.Layer7=16973837|UserLayerName.Layer8=16973835|UserLayerName.Layer9=16908289|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=GTQAUUDY|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842751~1,16973837~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1|PlotBoardProfile=True|PlotBoardProfileFileName=uSimar_PCB_V0.GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName=uSimar_PCB_V0.GD1|UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=uSimar_PCB_V0.GG1|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UserLayerName.Caption0=uSimar_PCB_V0.GBO|UserLayerName.Caption1=uSimar_PCB_V0.GTP|UserLayerName.Caption10=uSimar_PCB_V0.GM23|UserLayerName.Caption11=uSimar_PCB_V0.GBP|UserLayerName.Caption12=uSimar_PCB_V0.GBS|UserLayerName.Caption13=uSimar_PCB_V0.GM16|UserLayerName.Caption14=uSimar_PCB_V0.GM1|UserLayerName.Caption15=uSimar_PCB_V0.GBL|UserLayerName.Caption16=uSimar_PCB_V0.GM5|UserLayerName.Caption17=uSimar_PCB_V0.GM15|UserLayerName.Caption18=uSimar_PCB_V0.GM24|UserLayerName.Caption19=uSimar_PCB_V0.GM3|UserLayerName.Caption2=uSimar_PCB_V0.GTO|UserLayerName.Caption20=uSimar_PCB_V0.GM20|UserLayerName.Caption21=uSimar_PCB_V0.GTL|UserLayerName.Caption22=uSimar_PCB_V0.GKO|UserLayerName.Caption3=uSimar_PCB_V0.GTS|UserLayerName.Caption4=uSimar_PCB_V0.GM13|UserLayerName.Caption5=uSimar_PCB_V0.GPT|UserLayerName.Caption6=uSimar_PCB_V0.GPB|UserLayerName.Caption7=uSimar_PCB_V0.GM2|UserLayerName.Caption8=uSimar_PCB_V0.GM4|UserLayerName.Caption9=uSimar_PCB_V0.GM21|UserLayerName.Count=23|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16908311|UserLayerName.Layer11=16973833|UserLayerName.Layer12=16973835|UserLayerName.Layer13=16908304|UserLayerName.Layer14=16908289|UserLayerName.Layer15=16842751|UserLayerName.Layer16=16908293|UserLayerName.Layer17=16908303|UserLayerName.Layer18=16908312|UserLayerName.Layer19=16908291|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16908308|UserLayerName.Layer21=16777217|UserLayerName.Layer22=16973837|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16973848|UserLayerName.Layer6=16973849|UserLayerName.Layer7=16908290|UserLayerName.Layer8=16908292|UserLayerName.Layer9=16908309|DocumentPath=C:\Users\Public\Documents\Altium\Projeto_uSIMAR_git\usimar-hw\pcb\uSimar_PCB_V0.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -1215,6 +1303,12 @@ SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=uSimar_Components.SchLib
+ComponentDesignItemID0=SSD1306
+ComponentSymbolReference0=SSD1306
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1228,6 +1322,19 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=Library Reference
+ParameterUpdate3=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=SSD1306 128X32
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
